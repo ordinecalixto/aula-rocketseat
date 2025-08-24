@@ -4,3 +4,9 @@ Aprendendo sobre o GIT
 Aula da Rocketseat
 
 =====================
+
+Adicionando novas linhas
+linhas para modificar o arquivo
+data 24/08
+
+=======================
