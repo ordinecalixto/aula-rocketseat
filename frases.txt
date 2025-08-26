@@ -10,3 +10,5 @@ linhas para modificar o arquivo
 data 24/08
 
 =======================
+
+alterando o arquivo direto do github (editor)
